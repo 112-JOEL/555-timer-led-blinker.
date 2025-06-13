@@ -30,8 +30,6 @@ This is a basic electronics project using the NE555 timer IC configured in **ast
 - Practice KiCad schematic and PCB design
 - Learn component placement and routing
 
-## 📷 Preview
-*(Add image of schematic or 3D PCB here)*
 
 ## 📚 References
 - [555 Timer Basics – Electronics Tutorials](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
